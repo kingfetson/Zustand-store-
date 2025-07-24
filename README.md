@@ -28,7 +28,7 @@ A simple and elegant React counter app powered by [Zustand](https://github.com/p
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/zustand-counter-app.git
+git clone https://github.com/kingfetson/zustand-counter-app.git
 cd zustand-counter-app
 
 2. Install dependencies
@@ -70,3 +70,7 @@ Festus Kimani
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+🌟 Acknowledgments
+Zustand Docs
+
+React Docs
