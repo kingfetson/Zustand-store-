@@ -1,0 +1,71 @@
+/* Container centers everything */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Full screen height */
+}
+
+/* Stylish card */
+.card {
+  background: #ffffff;
+  padding: 2rem 3rem;
+  border-radius: 20px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.count {
+  font-size: 4rem;
+  color: #4a148c;
+  margin-bottom: 1.5rem;
+  font-family: monospace;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+button.increment {
+  background-color: #43a047;
+}
+
+button.increment:hover {
+  background-color: #388e3c;
+}
+
+button.decrement {
+  background-color: #e53935;
+}
+
+button.decrement:hover {
+  background-color: #c62828;
+}
+
+button.reset {
+  background-color: #757575;
+}
+
+button.reset:hover {
+  background-color: #424242;
+}
