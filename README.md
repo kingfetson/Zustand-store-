@@ -20,8 +20,7 @@ A simple and elegant React counter app powered by [Zustand](https://github.com/p
 
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Zustand+Counter+App) <!-- Replace with real screenshot if available -->
-
+zustand-counter-app\public\Snapshot.png
 ---
 
 ## 🚀 Getting Started
